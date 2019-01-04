@@ -1,0 +1,5 @@
+TrainingData:	C:\Users\Daniel\Documents\Programming Projects\Java\Workspace\CS4375FINAL\src\train.mv.txt
+TestData:	C:\Users\Daniel\Documents\Programming Projects\Java\Workspace\CS4375FINAL\src\final-mv-noclass.txt
+TestDataClassValues:	C:\Users\Daniel\Documents\Programming Projects\Java\Workspace\CS4375FINAL\src\prelim-gold.txt
+Attributes:	C:\Users\Daniel\Documents\Programming Projects\Java\Workspace\CS4375FINAL\src\attr.txt
+Limit:	.7125
